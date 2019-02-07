@@ -1,0 +1,12 @@
+body {
+    width: 80vw;
+    margin: auto;
+}
+
+img {
+    max-width: 80vw;
+}
+
+p{
+    text-align: center;
+}
